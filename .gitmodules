@@ -1,0 +1,8 @@
+[submodule "backend-tayka"]
+	path = backend-tayka
+	url = https://github.com/BauGuden/backend-tayka.git
+	branch = main
+[submodule "frontend-tayka"]
+	path = frontend-tayka
+	url = https://github.com/BauGuden/frontend-tayka.git
+	branch = main
